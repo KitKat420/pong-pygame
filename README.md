@@ -1,4 +1,4 @@
-# Pong
+# pong-pygame
 
 ![pong-img](https://githubimagebucket.s3.us-east-2.amazonaws.com/pong-readme-img.png)
 
