@@ -15,4 +15,4 @@ This pong program allows the player to compete against an AI (the right paddle) 
 
 ## Languages
 
-![python-img](https://githubimagebucket.s3.us-east-2.amazonaws.com/4375050_logo_python_icon.png)
+<img src="https://githubimagebucket.s3.us-east-2.amazonaws.com/4375050_logo_python_icon.png width="100" height="100">
