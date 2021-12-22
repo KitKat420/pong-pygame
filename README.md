@@ -1,6 +1,4 @@
 # pong-pygame
-
-# Pong
 <hr style="height:1px; border:none; color: #808080; background-color: #808080;">
 
 ![pong-img](/Assets/pong-readme-img.png)
