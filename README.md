@@ -7,6 +7,8 @@
 
 Pong is a table tennis–themed arcade sports video game, featuring simple two-dimensional graphics, manufactured by Atari and originally released in 1972.
 
+## pong-pygame functionality 
+
 My version of Pong uses the library, Pygame, that allowed me to implement key controls; an automated ball and paddle; a scoring system and a win condition.
 
 ## Dependencies
