@@ -2,7 +2,14 @@
 
 ![pong-img](https://githubimagebucket.s3.us-east-2.amazonaws.com/pong-readme-img.png)
 
-This pong program allows the player to compete against an AI (the right paddle) and includes a scoring system, win condition and key controls.
+
+## History
+
+Pong is a table tennis–themed arcade sports video game, featuring simple two-dimensional graphics, manufactured by Atari and originally released in 1972.
+
+## pong-pygame functionality 
+
+My version of Pong uses the library, Pygame, that allowed me to implement key controls; an automated ball and paddle; a scoring system and a win condition.
 
 ## Dependencies
 
